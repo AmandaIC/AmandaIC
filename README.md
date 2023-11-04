@@ -10,9 +10,9 @@ Meu objetivo é me tornar uma desenvolvedora de software altamente competente em
 
 ## Conecte-se comigo 
 
-- <a href="(https://www.linkedin.com/in/amandaceola/)"><span style="color:purple;">Linkedin</span></a>
+- <a href="https://www.linkedin.com/in/amandaceola/"><span style="color: neon purple;">Linkedin </span></a>
 
-- <a href="(https://www.instagram.com/ilucenskiamanda/)"><span style="color:purple;">Instagram</span></a>
+- <a href="https://www.instagram.com/ilucenskiamanda/"><span style="color: neon purple;">Instagram </span></a>
 
 
 
